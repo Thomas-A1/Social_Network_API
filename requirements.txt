@@ -1,0 +1,3 @@
+emoji
+flask
+firebase-admin
